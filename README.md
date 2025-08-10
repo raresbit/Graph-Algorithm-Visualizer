@@ -6,6 +6,9 @@ A React-based interactive graph algorithm visualizer with Python code execution 
 
 ## Features
 
+There is a **Python code editor** where you can write your own graph algorithms by utilizing the `self.graph` object from the `Solution` class. You can use our custom animation functions to highlight nodes and edges in the canvas or log strings and even containers to the console. There are predefined graphs, as well as the positbility to input your own graphs.
+
+Full feature list:
 - **Predefined and custom graphs:** Choose from empty, root-only, tree, sample graph, or create your own custom adjacency list or weighted edge list.
 - **Python code editor:** Write Python code to implement graph algorithms.
 - **Live Python execution:** Runs code in-browser using [Pyodide](https://pyodide.org/), with async animation control.
@@ -16,6 +19,7 @@ A React-based interactive graph algorithm visualizer with Python code execution 
 
 ## Demo
 
+![Demo](demo.gif)
 
 ## How To Run
 
