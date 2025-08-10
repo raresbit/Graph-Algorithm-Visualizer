@@ -13,3 +13,31 @@ A React-based interactive graph algorithm visualizer with Python code execution 
 - **Animation controls:** Step-by-step highlighting of nodes and edges, with adjustable playback speed.
 - **Console output:** See logged messages and exceptions directly in the UI.
 - **Support for weighted and unweighted graphs.**
+
+## Demo
+
+
+## How To Run
+
+1. **Clone the repository**  
+   Open your terminal and run:  
+   ```bash
+   git clone https://github.com/raresbit/Graph-Algorithm-Visualizer
+
+2. **Install dependencies**
+   Make sure you have [Node.js](https://nodejs.org/) installed, then open a terminal inside the project folder and run:
+
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   Launch the app locally by running this command inside the project folder:
+
+   ```bash
+   npm start
+   ```
+
+   This will open your default browser at `http://localhost:3000/` where you can use the visualizer.
+
+4. **Enjoy**
